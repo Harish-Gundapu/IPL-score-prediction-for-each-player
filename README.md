@@ -1,5 +1,5 @@
 # IPL-score-prediction-for-each-player
-This code will predict the score of individual players by using previous year's score and some batting parameters.
+This code will predict the score of individual player by using that player's previous year score and some batting parameters.
 
 Problem Statement:
 
