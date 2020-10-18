@@ -11,4 +11,4 @@ Objective:
 The objective of the problem statement is to predict Total runs of a player in IPL 2020. The
 output file should contain only Player Name and the respective IPL 2020 for the test data.
 
-Note: As in model 1, I've used Random Forest Regression as my base module, the results may vary each time when the code is run. But the final variations will be atmost +/-3 runs. 
+Note: As in model 1, I've used Random Forest Regression as my base module, the results may vary each time when the code is run. But the final variations will be around +/-3 runs. 
